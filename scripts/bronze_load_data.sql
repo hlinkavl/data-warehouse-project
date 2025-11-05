@@ -9,6 +9,7 @@ Script Purpose:
 */
 
 -- creating stored procedure
+GO
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
 
