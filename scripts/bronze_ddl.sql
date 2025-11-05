@@ -1,6 +1,6 @@
 /*
 =============================================================
-Define tables based on CSV files
+Define tables & columns based on CSV files
 =============================================================
 */
 
