@@ -1,11 +1,11 @@
 /*
-=============================================================
+==================================================================================
 Load Data into Bronze Layer
-=============================================================
+==================================================================================
 Script Purpose:
     This script creates new stored procedure, which starts with truncating a table
-    and then bulk inserting from appropriate CSV file into that table. Also added variables
-    to track the upload duration time in seconds.
+    and then bulk inserting from appropriate CSV file into that table. Also added 
+    variables to track the upload duration time in seconds.
 */
 
 -- creating stored procedure
