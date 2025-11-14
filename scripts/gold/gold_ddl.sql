@@ -1,3 +1,8 @@
+/*
+================================================================================================
+Creating 3 views based on 3 predefined objects - sales (fact), products (dim) & customers (dim)
+================================================================================================
+*/
 
 -- CUSTOMER object view
 CREATE VIEW gold.dim_customers AS
