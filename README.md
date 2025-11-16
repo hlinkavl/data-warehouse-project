@@ -85,5 +85,4 @@ A separate follow‑up project may include:
 
 -   Exploratory Data Analysis (EDA)
 -   Business insights
--   Analytical SQL queries
 -   Dashboard visualizations
