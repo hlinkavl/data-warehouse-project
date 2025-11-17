@@ -6,7 +6,7 @@ Server.
 The objective is to demonstrate the full workflow from raw data
 ingestion to clean, business‑ready data models suitable for analytics.
 
-**Credits & License**
+### Credits & License
 This project is based on a guided project created by **Baraa Khatib
 Salkini (Data With Baraa)**, who licensed his original work under the
 **MIT License**, allowing reuse and sharing with attribution.
