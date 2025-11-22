@@ -1,4 +1,13 @@
+/*
+================================================
+Exploring data step by step:
 
+1. exploring dimensions - product hierarchy
+2. creating measures overview table
+3. magnitude analysis
+4. ranking (top N) analysis
+===============================================
+*/
 
 USE DataWarehouse;
 
