@@ -1,3 +1,15 @@
+/*
+================================================
+Advanced analysis consists of:
+
+1. change over time analysis
+2. cumulative analysis
+3. performance analysis
+4. part to whole analysis
+5. data segmentation
+===============================================
+*/
+
 -- change over  time
 select 
 YEAR(orderdate) order_year,
