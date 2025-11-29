@@ -76,6 +76,6 @@ Transformations produce the final analytical schema:
 
 Scripts for each layer are located in the `scripts/` directory.
 
-# DWH Data Analysis 💡
+# Data Analysis 💡
 
-A follow‑up project focused on EDA, advanced analysis & complex reporting can be found [here](followup-analysis)
+A follow‑up project focused on EDA, advanced analysis & complex reporting can be found [here](followup-analysis).
