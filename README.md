@@ -78,8 +78,4 @@ Scripts for each layer are located in the `scripts/` directory.
 
 # Future Work 🔮
 
-A separate follow‑up project may include:
-
--   Exploratory Data Analysis (EDA)
--   Business insights
--   Dashboard visualizations
+A follow‑up project focused on EDA, advanced analysis & complex report can be found [here](followup-analysis)
