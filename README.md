@@ -78,4 +78,4 @@ Scripts for each layer are located in the `scripts/` directory.
 
 # Data Analysis 💡
 
-A follow‑up project focused on EDA, advanced analysis & full customer report can be found [here](followup-analysis).
+A follow‑up project focused on EDA, advanced analysis & full customer report scripts can be found [here](followup-analysis).
